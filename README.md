@@ -1,9 +1,7 @@
 # React & Rockets
 
-**Description:** Challenge for Adjust Frontend Developer
-
 ---
-## Exercise
+## Practice Exercise
 
 ### TASK #1 - JavaScript
 
@@ -98,13 +96,6 @@ The expected render should be:
 #60 TESS (1)
 #59 CRS-14 (1)
 ```
-
-## How to request help
-
-If you have any doubts, you can reach out to us by simply [creating a GitHub issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-repository) in your private repo.
-
-Describe your question(s) and [mention](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#mentioning-people-and-teams) [adjust-frontend-hiring][adjust-frontend-hiring] in your comments (don't forget to add user as collaborator). We will then receive a notification and get back to you as soon as possible.
-
 ## Helpful links
 
 - [SpaceX API Docs][spacex-api-docs]
