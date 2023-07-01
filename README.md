@@ -2,40 +2,7 @@
 
 **Description:** Challenge for Adjust Frontend Developer
 
-**Owner:** [adjust](https://github.com/adjust)
-
-**Contacts:** frontend-hiring@adjust.com
-
 ---
-
-## Welcome to our little coding exercise! 👋
-
-Here you will be given the opportunity to play with JavaScript and Rockets in the same project. For this, we recommend you to block 2-3 hours of your time to complete it.
-
-**Please make sure you have read this page entirely, before starting the challenge**. If you have any doubts, please reach out to us by [opening an issue](https://github.com/adjust/react-and-rockets#how-to-request-help) as described at the bottom of this page.
-
-**Importantly**, we would like to give all candidates taking this test the same opportunity to solve the exercise in their own way. Because of this, **please do not fork or share this repo (nor your solution) with anybody 🙏🏻**
-
-<img align="center" src="https://i.imgur.com/ekyJNd9.jpg" width="600">
-
-## Instructions
-
-1. You **MUST [clone this repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)** to a location of your choosing where you can work on your solution
-2. Write your solutions inside of the files contained in **`src/solutions`**, making sure the provided tests are green. **Please do not modify anything inside of `src/tests`**
-3. Push your solution to a **private repo** in your **personal Github account**
-4. When you are ready for us to take a look, please add [adjust-frontend-hiring][adjust-frontend-hiring] (GitHub user) as collaborator
-
-## Important rules
-
-Your challenge submission will be disqualified and automatically rejected if any of the following happens:
-
-- Your **repo was not properly cloned** as specified on step #1 of Instructions. [See how to clone a repository here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository). **Note:** If you cloned the repo properly, previous commits from this (original) repo, must be showing on your git history.
-- Your **tests are not passing** (green) as specified on step #2 of Instructions. **Note:** You can run tests with command `npm run test src` or `yarn test src` (according to the package manager you are using).
-- You **have modified any of the files inside of `src/tests`** as specified on step #2 of Instructions.
-- Your **repo visibility is not set to private** as specified on step #3 of Instructions. [See how to make a repository private here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility).
-
----
-
 ## Exercise
 
 ### TASK #1 - JavaScript
