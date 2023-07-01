@@ -1,7 +1,4 @@
-# React & Rockets
-
----
-## Practice Exercise
+# React & Rockets Practice Exercise
 
 ### TASK #1 - JavaScript
 
