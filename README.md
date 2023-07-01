@@ -99,7 +99,6 @@ The expected render should be:
 ## Helpful links
 
 - [SpaceX API Docs][spacex-api-docs]
-- [Inviting collaborators to a personal repository][github-collaborators]
 
 [spacex-api]: https://api.spacexdata.com/v3/launches/past
 [spacex-api-docs]: https://docs.spacexdata.com/?version=latest#fce450d6-e064-499a-b88d-34cc22991bcc
